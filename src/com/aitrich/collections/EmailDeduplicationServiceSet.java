@@ -26,6 +26,10 @@ public class EmailDeduplicationServiceSet {
 		System.out.println("Deduplicated with hash set");
 		System.out.println(hs);
 		
+		TreeSet<String> sortedhs = new TreeSet<>(hs);
+		System.out.println("Sorted hash set");
+		System.out.println(sortedhs);
+		
 		TreeSet<String> ts = new TreeSet<>(emails);
 		System.out.println("Deduplicated with tree set");
 		System.out.println(ts);
