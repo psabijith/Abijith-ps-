@@ -1,4 +1,4 @@
-package com.aitrich.collections;
+package com.aitrich.collections.problems1;
 
 import java.util.ArrayList;
 import java.util.HashSet;

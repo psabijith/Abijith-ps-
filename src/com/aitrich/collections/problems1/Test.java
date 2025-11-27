@@ -1,4 +1,4 @@
-package com.aitrich.collections;
+package com.aitrich.collections.problems1;
 
 public class Test {
 	public static void main(String[] args) {
