@@ -1,0 +1,23 @@
+package com.aitrich.multithreading.problem1;
+
+import java.util.Scanner;
+
+public class SquareOfNumbers extends Thread {
+	int[] nums;
+	int entry;
+	
+	public SquareOfNumbers() {
+		nums = new int[10];
+	}
+	
+	for(int i = 0 ; i < 10 ; i++) {
+		System.out.println("Enter number : ");
+		Scanner sc = new Scanner(System.in);
+		entry = sc.nextInt();
+		sc.close();
+	}
+	
+	for(int j = 0 ; j < 10 ; j++) {
+		System.out.println(Math.pow(j, 2));
+	}
+}
