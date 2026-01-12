@@ -1,4 +1,4 @@
-package com.aitrich.bookmyshowclone.Domain;
+package BookMyShowClone.src.com.aitrich.bookmyshowclone.Domain;
 
 import java.util.List;
 

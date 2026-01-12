@@ -1,4 +1,4 @@
-package com.aitrich.bookmyshowclone.Domain;
+package BookMyShowClone.src.com.aitrich.bookmyshowclone.Domain;
 
 import java.io.*;
 import java.util.HashMap;
@@ -29,7 +29,8 @@ public class Authentication {
             String line;
             while ((line = br.readLine()) != null) {
                 line = line.trim();
-                if (line.isEmpty()) continue;
+                if (line.isEmpty()) 
+                	continue;
 
                 String[] parts = line.split(",");
 

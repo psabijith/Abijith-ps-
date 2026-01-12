@@ -1,0 +1,6 @@
+Abijith,Abi123,ADMIN
+Abi,adminAbi,ADMIN
+AbiAdmin,AbiAdmin123,ADMIN
+AbiUser,AbiUser123,USER
+naveen,123,USER
+akshay,123,ADMIN

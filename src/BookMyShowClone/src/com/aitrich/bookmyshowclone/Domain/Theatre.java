@@ -1,4 +1,4 @@
-package com.aitrich.bookmyshowclone.Domain;
+package BookMyShowClone.src.com.aitrich.bookmyshowclone.Domain;
 
 import java.time.LocalDateTime;
 
@@ -12,10 +12,11 @@ public class Theatre {
 	
 	public Theatre() {}
 	
-	public Theatre(String name , String location , int totalSeats , LocalDateTime showTiming) {
+	public Theatre(String name , String location , int totalSeats , int seatsAvailable, LocalDateTime showTiming) {
 		this.name = name;
 		this.location = location;
 		this.totalSeats = totalSeats;
+		this.seatsAvailable = seatsAvailable;
 		this.showTiming = showTiming;
 	}
 	
