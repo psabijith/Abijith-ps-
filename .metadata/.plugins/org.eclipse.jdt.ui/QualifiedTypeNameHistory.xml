@@ -2,4 +2,25 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.aitrich.multithreading.problem1.SquareOfNumbers"/>
+    <fullyQualifiedTypeName name="com.aitrich.JDBC.problem1.DAO.DatabaseManager"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="com.aitrich.entity.Students"/>
+    <fullyQualifiedTypeName name="com.hospital.exception.DoctorNotFoundException"/>
+    <fullyQualifiedTypeName name="com.hospital.exception.SlotUnavailableException"/>
+    <fullyQualifiedTypeName name="com.hospital.exception.InvalidTimeSlotException"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="com.hospital.exception.PatientNotFoundException"/>
+    <fullyQualifiedTypeName name="com.hospital.DAO.DoctorDAO"/>
+    <fullyQualifiedTypeName name="com.hospital.util.DBUtil"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="com.hospital.model.Doctor"/>
+    <fullyQualifiedTypeName name="com.hospital.DAO.PatientDAO"/>
+    <fullyQualifiedTypeName name="com.hospital.model.Patient"/>
+    <fullyQualifiedTypeName name="com.hospital.model.AppointmentStatus"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
 </qualifiedTypeNameHistroy>

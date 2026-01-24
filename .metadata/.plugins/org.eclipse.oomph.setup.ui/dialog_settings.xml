@@ -6,7 +6,7 @@
 		<section name="ConfirmationPage">
 		</section>
 		<section name="ProgressPage">
-			<item key="restartIfNeeded" value="true"/>
+			<item key="restartIfNeeded" value="false"/>
 		</section>
 	</section>
 	<section name="org.eclipse.oomph.setup.ui.wizards.SetupWizard$Updater$2">
